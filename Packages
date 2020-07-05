@@ -1,14 +1,13 @@
-Package: 
-Version:0.0.1
-Architecture: iphoneos-arm
-Maintainer: zebek	
-Depends:  Picsart App
-Conflicts: com.crazymind90.dpkeunuv
-Filename: com.crazymind90.dpkeunuv_0.0.1-1+debug_iphoneos-arm.deb
-Size: 1670732	
-MD5sum:	
-SHA1:	
-SHA256:	
-Section: Tweaks	Section: Tweaks
-Depiction: https://x71s.
-Name: PicsArt
+new Debian package, version 2.0.
+ size 4460 bytes: control archive=318 bytes.
+     282 bytes,    10 lines   *  control              
+ Package: com.yourepo.meow7.picsarthack
+ Name: PicsartHack
+ Version: 92.17.1
+ Architecture: iphoneos-arm
+ Description: jdiekfjjdksmsksknskdndjdmsn
+ Author: tele:@jail48 <hunter444kill@gmail.com>
+ Section: Tweaks
+ Depends: mobilesubstrate
+ Maintainer: tele:@jail49 <hunter444kill@gmail.com>
+ 
