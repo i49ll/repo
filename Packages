@@ -1,13 +1,13 @@
 new Debian package, version 2.0.
- size 4460 bytes: control archive=318 bytes.
-     282 bytes,    10 lines   *  control              
- Package: com.yourepo.meow7.picsarthack
- Name: PicsartHack
- Version: 92.17.1
+ size 584290 bytes: control archive=330 bytes.
+     295 bytes,    10 lines      control              
+ Package: com.yourcompany.m0
+ Name: m0
  Architecture: iphoneos-arm
- Description: jdiekfjjdksmsksknskdndjdmsn
- Author: tele:@jail48 <hunter444kill@gmail.com>
+ Description: An awesome MobileSubstrate tweak!
+ Maintainer: https://x71s.github.io/repo/x71s
+ Author: https://x71s.github.io/repo/x71s
  Section: Tweaks
- Depends: mobilesubstrate
- Maintainer: tele:@jail49 <hunter444kill@gmail.com>
- 
+ Depends: mobilesubstrate (>= 0.9.5000)
+ Version: 0.0.1-1+debug
+ Installed-Size: 844
